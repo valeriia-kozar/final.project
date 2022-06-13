@@ -49,6 +49,12 @@ $(document).ready(function(){
 
 // Carousel
 
+$(document).ready(function(){
+    $(".slideshow-container").mySlides({
+        speed:3000
+    })
+})
+
  var slideIndex = 1;
  showSlides(slideIndex);
 
@@ -74,6 +80,7 @@ $(document).ready(function(){
          slides[i].style.display = "none";
      }
      slides[slideIndex-1].style.display = "block";
+     
  }
 
 

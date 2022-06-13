@@ -271,6 +271,7 @@ body {
     margin: auto;
     display: var(--flex);
     gap: 40px;
+    -webkit-gap: 40px;
 }
 
 .aside-text {       
@@ -372,6 +373,8 @@ body {
 .article-one .link {
     position: absolute;
     bottom: 3px;
+    -webkit-position: absolute;
+    -webkit-bottom: 3px;
 }
 
 .img-wrapper {
@@ -435,6 +438,7 @@ body {
 .header-icons {
     display: var(--flex);
     gap: 25px;
+    -webkit-gap: 25px;
 }
 
 

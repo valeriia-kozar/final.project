@@ -151,6 +151,7 @@
 
     .article-one .link {
         bottom: 40px;
+        -webkit-bottom: 40px;
     }
 
     .article-one .fa-long-arrow-right {
@@ -418,6 +419,7 @@
 
     .article-one .link {
         bottom: 35px;
+        -webkit-bottom: 35px;
     }
 
     .article-text .yellow-title,
@@ -551,6 +553,7 @@
 
     .article-one .link {
         bottom: 4px;
+        -webkit-bottom: 4px;
     }
 
     .article-two .article-text-two {

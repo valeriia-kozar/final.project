@@ -716,6 +716,12 @@ body {
     justify-content: space-around;
 }
 
-.footer-nav-link:hover {
+.footer-privacy-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-nav-link:hover,
+.footer-privacy-link:hover {
     color: var(--brown);
 }
